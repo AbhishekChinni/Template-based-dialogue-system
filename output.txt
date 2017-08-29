@@ -1,0 +1,12 @@
+advmod(is-2, when-1)
+
+root(ROOT-0, is-2)
+
+det(train-4, the-3)
+
+nsubj(is-2, train-4)
+
+prep_from(train-4, Lucknow-6)
+
+prep_to(Lucknow-6, Guwahati-8)
+
